@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1403
+
+This plugin is designed to automatically decrypt/encrypt GPG files which were encrypted with a passphrase (a.k.a. symmetric encryption using the AES cipher).  It is designed to be secure and robust.  You can replace AES with AES128, AES256 or any other ciphers supported by your gpg.
